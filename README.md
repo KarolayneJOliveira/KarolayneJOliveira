@@ -37,14 +37,26 @@ Onde pode me encontrar:
 
 <br>
 
+## Portfólio e Principais Projetos
+### Dashboard de Logística
+<img align="right" width="500"  src="https://github.com/KarolayneJOliveira/desktop-tutorial/blob/main/Captura%20de%20tela%202025-04-14%20104541.png?raw=true">
+Projeto desenvolvido para análise e entendimento dos clientes da empresa transportes, utlizando linguagem SQL para consulta ao banco de dados.
+Principais desafios: <br>
+- Desenvolver consultas utilizando linguagem SQL.<br>
+- Estatística descritiva com as principais características das entregas da base de dados.<br>
+- Medir a performance e variação das entregas ao longo do tempo, identificando as principais fontes das entregas fora do prazo.
+<br>
+<a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<a href="">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
 
 
 
 
 
-<a href="">Clique aqui</a>
 
-<img width="500"  src="https://github.com/KarolayneJOliveira/desktop-tutorial/blob/main/Captura%20de%20tela%202025-04-14%20104541.png?raw=true">
 
 ![Texto alternativo](https://github.com/KarolayneJOliveira/desktop-tutorial/blob/main/Captura%20de%20tela%202025-04-14%20104541.png?raw=true)
 
