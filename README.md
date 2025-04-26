@@ -1,4 +1,4 @@
-### Hi, I'm Karolayne 👋
+### Olá, sou a Karolayne 👋
 
 ## Analista de Dados
 
