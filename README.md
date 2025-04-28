@@ -36,7 +36,7 @@ Onde pode me encontrar:
 
 ## Portfólio e Principais Projetos
 ### Análise de Logística
-<img align="right" width="600"  src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
+<img align="right" width="500"  src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
 Projeto desenvolvido para análise das entregas de uma empresa de transportes, utlizando linguagem SQL para consulta ao banco de dados e Power BI para a construção do Dashboard.<br>
 Principais desafios enfrentados: <br>
 - Desenvolvimento de consultas eficiêntes utilizando linguagem SQL.<br>
@@ -51,7 +51,7 @@ Principais desafios enfrentados: <br>
 <br>
 
 ### Análise de Recursos Humanos
-<img align="left" width="600" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
+<img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
 Projeto desenvolvido para análise da rotatividade dos colaboradores de uma empresa de produção, utlizando o processo de ETL (Extração, Transformação e Carga) do banco de dados.<br>
 Principais desafios enfrentados: <br>
 - Implementação do Processo de ETL no Power BI.<br>
