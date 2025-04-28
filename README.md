@@ -3,10 +3,10 @@
 ## Analista de Dados
 
 Sobre mim: 
-- 🔭 I’m currently developing new projects in Power BI and Python
-- 🌱 I’m currently improving Python language
-- 🏠 I currently live in Rondônia/Brazil
-- 📫 How to reach me: karoljhully123@gmail.com
+- 🔭 Atualmente estou desenvolvendo novos projetos em Power BI e Python
+- 🌱 Atualmente estou aprimorando a linguagem Python
+- 🏠 Atualmente moro em Rondônia/Brasil
+- 📫 Como entrar em contato comigo: karoljhully123@gmail.com
 
 
 <br>
