@@ -45,7 +45,7 @@ Principais desafios: <br>
 <br>
 <a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
-<a href="">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/KarolayneJOliveira/Portfolio_Logistica">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
 
@@ -58,7 +58,7 @@ Principais desafios: <br>
 - Medir a performance e variação dos colaboradores ao longo do tempo, identificando as principais fontes do turnover.
 <br>
 <br>
-<a href="" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
 <a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
 
