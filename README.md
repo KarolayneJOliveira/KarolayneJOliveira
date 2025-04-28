@@ -43,12 +43,12 @@ Principais desafios enfrentados: <br>
 - Aplicação de estatística descritiva  para identificar as principais demandas das entregas na base de dados.<br>
 - Desenvolvimento de métricas utilizando linguagem em DAX.<br>
 - Medição da performance e da variação das entregas ao longo do tempo, com a identificação das principais causas das entregas fora do prazo.
-<br><br>
+<br>
 <a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_Logistica">Clique aqui</a> e acesse o repositório no Github.
 
-<br><br>
+<br>
 
 ### Análise de Recursos Humanos
 <img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
@@ -57,11 +57,11 @@ Principais desafios enfrentados: <br>
 - Implementação do Processo de ETL no Power BI.<br>
 - Desenvolvimento de métricas utilizando linguagem DAX no Power BI.<br>
 - Avaliação da performance e satisfação dos colaboradores ao longo do tempo, identificando as principais causas do alto índice de turnover.
-<br><br>
+<br>
 <a href="">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
-<br>
+
 
 
 
