@@ -54,8 +54,8 @@ Principais desafios enfrentados: <br>
 <img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
 Projeto desenvolvido para análise da rotatividade dos colaboradores de uma empresa de produção, utlizando o processo de ETL (Extração, Transformação e Carga) do banco de dados.<br>
 Principais desafios enfrentados: <br>
-- Processo do ETL no Power BI.<br>
-- Desenvolvimento de métricas utilizando linguagem em DAX no Power BI.<br>
+- Implementação do Processo de ETL no Power BI.<br>
+- Desenvolvimento de métricas utilizando linguagem DAX no Power BI.<br>
 - Avaliação da performance e satisfação dos colaboradores ao longo do tempo, identificando as principais causas do alto índice de turnover.
 <br><br>
 <a href="">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
