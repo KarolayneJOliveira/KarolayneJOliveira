@@ -3,14 +3,11 @@
 ## Analista de Dados
 
 Sobre mim: 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently developing new projects in Power BI and Python
+- 🌱 I’m currently improving Python language
+- 🏠 I currently live in Rondônia/Brazil
+- 📫 How to reach me: karoljhully123@gmail.com
+
 
 <br>
 
@@ -38,8 +35,8 @@ Onde pode me encontrar:
 <br>
 
 ## Portfólio e Principais Projetos
-### Dashboard de Logística
-<img align="right" width="500"  src="https://github.com/KarolayneJOliveira/desktop-tutorial/blob/main/Captura%20de%20tela%202025-04-14%20104541.png?raw=true">
+### Análise de Transporte
+<img align="right" width="500"  src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos clientes da empresa transportes, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
@@ -52,14 +49,17 @@ Principais desafios: <br>
 
 <br><br>
 
+### Análise de Colaboradores 
+<img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
+Projeto desenvolvido para análise e entendimento dos colaboradores da empresa, utlizando linguagem SQL para consulta ao banco de dados.
+Principais desafios: <br>
+- Desenvolver consultas utilizando linguagem SQL.<br>
+- Estatística descritiva com as principais características dos clientes da base de dados.<br>
+- Medir a performance e variação dos colaboradores ao longo do tempo, identificando as principais fontes do turnover.
+<br>
+<br>
+<a href="" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
 
-
-
-
-
-
-![Texto alternativo](https://github.com/KarolayneJOliveira/desktop-tutorial/blob/main/Captura%20de%20tela%202025-04-14%20104541.png?raw=true)
-
-
-<div> </div>
 
