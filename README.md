@@ -35,13 +35,14 @@ Onde pode me encontrar:
 <br>
 
 ## Portfólio e Principais Projetos
-### Análise de Transporte
+### Análise de Logística
 <img align="right" width="500"  src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
-Projeto desenvolvido para análise e entendimento dos clientes da empresa transportes, utlizando linguagem SQL para consulta ao banco de dados e Power BI para a construção do Dashboard.
-Principais desafios: <br>
-- Desenvolver consultas utilizando linguagem SQL.<br>
-- Estatística descritiva com as principais características das entregas da base de dados.<br>
-- Medir a performance e variação das entregas ao longo do tempo, identificando as principais fontes das entregas fora do prazo.
+Projeto desenvolvido para análise das entregas de uma empresa de transportes, utlizando linguagem SQL para consulta ao banco de dados e Power BI para a construção do Dashboard.
+Principais desafios enfrentados: <br>
+- Desenvolvimento de consultas eficiêntes utilizando linguagem SQL.<br>
+- Aplicação de estatística descritiva  para identificar as principais demandas das entregas na base de dados.<br>
+- Desenvolvimento de métricas utilizando linguagem em DAX.<br>
+- Medição da performance e da variação das entregas ao longo do tempo, com a identificação das principais causas das entregas fora do prazo.
 <br>
 <a href="">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
@@ -50,12 +51,12 @@ Principais desafios: <br>
 <br><br>
 
 ### Análise de Colaboradores 
-<img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Captura%20de%20tela%202025-04-27%20193244.2.png?raw=true">
+<img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos colaboradores da empresa, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
-- Desenvolver consultas utilizando linguagem SQL.<br>
-- Estatística descritiva com as principais características dos clientes da base de dados.<br>
-- Medir a performance e variação dos colaboradores ao longo do tempo, identificando as principais fontes do turnover.
+- Desenvolvimento de consultas eficiêntes utilizando linguagem SQL.<br>
+- Desenvolvimento de métricas utilizando linguagem em DAX no Power BI.<br>
+- Medição da performance e satisfação dos colaboradores ao longo do tempo, identificando as principais causas do turnover alto.
 <br>
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
