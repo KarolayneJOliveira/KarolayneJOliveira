@@ -37,7 +37,7 @@ Onde pode me encontrar:
 ## Portfólio e Principais Projetos
 ### Análise de Logística
 <img align="right" width="500"  src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
-Projeto desenvolvido para análise das entregas de uma empresa de transportes, utlizando linguagem SQL para consulta ao banco de dados e Power BI para a construção do Dashboard.
+Projeto desenvolvido para análise das entregas de uma empresa de transportes, utlizando linguagem SQL para consulta ao banco de dados e Power BI para a construção do Dashboard.<br>
 Principais desafios enfrentados: <br>
 - Desenvolvimento de consultas eficiêntes utilizando linguagem SQL.<br>
 - Aplicação de estatística descritiva  para identificar as principais demandas das entregas na base de dados.<br>
@@ -50,17 +50,18 @@ Principais desafios enfrentados: <br>
 
 <br><br>
 
-### Análise de Colaboradores 
+### Análise de Recursos Humanos
 <img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
-Projeto desenvolvido para análise e entendimento dos colaboradores da empresa, utlizando linguagem SQL para consulta ao banco de dados.
-Principais desafios: <br>
+Projeto desenvolvido para análise e entendimento dos colaboradores da empresa, utlizando linguagem SQL para consulta ao banco de dados.<br>
+Principais desafios enfrentados: <br>
 - Desenvolvimento de consultas eficiêntes utilizando linguagem SQL.<br>
 - Desenvolvimento de métricas utilizando linguagem em DAX no Power BI.<br>
 - Medição da performance e satisfação dos colaboradores ao longo do tempo, identificando as principais causas do turnover alto.
 <br>
+<a href="">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
-<a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
+
 
 
