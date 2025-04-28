@@ -50,7 +50,7 @@ Principais desafios: <br>
 <br><br>
 
 ### Análise de Colaboradores 
-<img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
+<img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Captura%20de%20tela%202025-04-27%20193244.2.png?raw=true">
 Projeto desenvolvido para análise e entendimento dos colaboradores da empresa, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
