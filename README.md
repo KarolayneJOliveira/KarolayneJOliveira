@@ -37,7 +37,7 @@ Onde pode me encontrar:
 ## Portfólio e Principais Projetos
 ### Análise de Transporte
 <img align="right" width="500"  src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
-Projeto desenvolvido para análise e entendimento dos clientes da empresa transportes, utlizando linguagem SQL para consulta ao banco de dados.
+Projeto desenvolvido para análise e entendimento dos clientes da empresa transportes, utlizando linguagem SQL para consulta ao banco de dados e Power BI para a construção do Dashboard.
 Principais desafios: <br>
 - Desenvolver consultas utilizando linguagem SQL.<br>
 - Estatística descritiva com as principais características das entregas da base de dados.<br>
