@@ -24,7 +24,7 @@ Principais Ferramentas:
 Onde pode me encontrar:
 
 <div>
-<a href="https://www.linkedin.com/in/karolayne-jhully-8a33a0338/">
+<a href="https://www.linkedin.com/in/karolayne-jhully-oliveira/">
   <img height="40" width="40" src="https://github.com/KarolayneJOliveira/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
 </a>
 <a href="https://www.instagram.com/karolaynejhully/">
