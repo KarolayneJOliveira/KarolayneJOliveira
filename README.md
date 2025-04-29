@@ -58,7 +58,7 @@ Principais desafios enfrentados: <br>
 - Desenvolvimento de métricas utilizando linguagem DAX no Power BI.<br>
 - Avaliação da performance e satisfação dos colaboradores ao longo do tempo, identificando as principais causas do alto índice de turnover.
 <br>
-<a href="">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
+<a href="https://app.powerbi.com/reportEmbed?reportId=a820042d-2311-463c-8228-c5321a413733&autoAuth=true&ctid=9eb08943-dd35-493d-9e7a-37d444bb40eb">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
