@@ -6,7 +6,7 @@ Sobre mim:
 - 🔭 Atualmente estou desenvolvendo novos projetos em Power BI e Python
 - 🌱 Atualmente estou aprimorando na linguagem Python
 - 🏠 Atualmente moro em Rondônia/Brasil
-- 📫 Como entrar em contato comigo: karoljhully123@gmail.com
+- 📫 Como entrar em contato comigo: karolaynejdataanalyst@gmail.com
 
 
 <br>
