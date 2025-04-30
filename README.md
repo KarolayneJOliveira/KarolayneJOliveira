@@ -51,7 +51,7 @@ Principais desafios enfrentados: <br>
 <br>
 
 ### Análise de Recursos Humanos
-<img align="left" width="500" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Dashboard%20RH%201.png?raw=true">
+<img align="left" width="500" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
 Projeto desenvolvido para análise da rotatividade dos colaboradores de uma empresa de produção, utlizando o processo de ETL (Extração, Transformação e Carga) do banco de dados.<br>
 Principais desafios enfrentados: <br>
 - Implementação do Processo de ETL no Power BI.<br>
